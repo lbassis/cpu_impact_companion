@@ -1,0 +1,124 @@
+library(ggplot2)
+library(dplyr)
+library(RColorBrewer)
+
+#### XEON ####
+                                        # só cpu single
+df_getrf <- read.csv('../outputs/xeon_performance/getrf_cpu.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+df_potrf <- read.csv('../outputs/xeon_performance/potrf_cpu.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+xeon_cpu_single <- bind_rows(df_getrf, df_potrf)
+xeon_cpu_single$precision <- 'Single'
+
+                                        # só cpu double
+df_getrf <- read.csv('../outputs/xeon_performance/getrf_cpu_double.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+df_potrf <- read.csv('../outputs/xeon_performance/potrf_cpu_double.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+xeon_cpu_double <- bind_rows(df_getrf, df_potrf)
+xeon_cpu_double$precision <- 'Double'
+
+                                        # gpu single
+df_getrf <- read.csv('../outputs/xeon_performance/getrf_gpu.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+df_potrf <- read.csv('../outputs/xeon_performance/potrf_gpu.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+xeon_gpu_single <- bind_rows(df_getrf, df_potrf)
+xeon_gpu_single$precision = 'Single'
+
+                                        # gpu double
+df_getrf <- read.csv('../outputs/xeon_performance/getrf_gpu_double.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+df_potrf <- read.csv('../outputs/xeon_performance/potrf_gpu_double.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+xeon_gpu_double <- bind_rows(df_getrf, df_potrf)
+xeon_gpu_double$precision = 'Double'
+
+                                        # 100k single
+df_getrf <- read.csv('../outputs/xeon_performance/getrf_100k.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+df_potrf <- read.csv('../outputs/xeon_performance/potrf_100k.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+xeon_100k_single <- bind_rows(df_getrf, df_potrf)
+xeon_100k_single$precision = 'Single'
+
+                                        # 100k double
+df_getrf <- read.csv('../outputs/xeon_performance/getrf_100k_double.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+df_potrf <- read.csv('../outputs/xeon_performance/potrf_100k_double.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+xeon_100k_double <- bind_rows(df_getrf, df_potrf)
+xeon_100k_double$precision = 'Double'
+
+
+xeon_df <- bind_rows(xeon_cpu_single, xeon_cpu_double, xeon_gpu_single, xeon_gpu_double, xeon_100k_single, xeon_100k_double) |> filter(threads == 7)
+
+#### i9 ####
+                                        # só cpu single
+df_getrf <- read.csv('../outputs/i9_performance/getrf_cpu.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+df_potrf <- read.csv('../outputs/i9_performance/potrf_cpu.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+i9_cpu_single <- bind_rows(df_getrf, df_potrf)
+i9_cpu_single$precision <- 'Single'
+
+                                        # só cpu double
+df_getrf <- read.csv('../outputs/i9_performance/getrf_cpu_double.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+df_potrf <- read.csv('../outputs/i9_performance/potrf_cpu_double.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+i9_cpu_double <- bind_rows(df_getrf, df_potrf)
+i9_cpu_double$precision <- 'Double'
+
+                                        # gpu single
+df_getrf <- read.csv('../outputs/i9_performance/getrf_gpu.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+df_potrf <- read.csv('../outputs/i9_performance/potrf_gpu.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+i9_gpu_single <- bind_rows(df_getrf, df_potrf)
+i9_gpu_single$precision = 'Single'
+
+                                        # gpu double
+df_getrf <- read.csv('../outputs/i9_performance/getrf_gpu_double.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+df_potrf <- read.csv('../outputs/i9_performance/potrf_gpu_double.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+i9_gpu_double <- bind_rows(df_getrf, df_potrf)
+i9_gpu_double$precision = 'Double'
+
+                                        # 100k single
+df_getrf <- read.csv('../outputs/i9_performance/getrf_100k.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+df_potrf <- read.csv('../outputs/i9_performance/potrf_100k.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+i9_100k_single <- bind_rows(df_getrf, df_potrf)
+i9_100k_single$precision = 'Single'
+
+                                        # 100k double
+df_getrf <- read.csv('../outputs/i9_performance/getrf_100k_double.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+df_potrf <- read.csv('../outputs/i9_performance/potrf_100k_double.csv', sep=";", header=TRUE) |> select(Function, n, threads, gpus, nb, time) |> group_by(nb) |> arrange(time) |> slice(0:(n()-1)) |> ungroup()
+i9_100k_double <- bind_rows(df_getrf, df_potrf)
+i9_100k_double$precision = 'Double'
+
+i9_df <- bind_rows(i9_cpu_single, i9_cpu_double, i9_gpu_single, i9_gpu_double, i9_100k_single, i9_100k_double) |> filter(threads==23)
+
+xeon_df$CPU <- 'Xeon'
+i9_df$CPU <- 'i9'
+df <- bind_rows(xeon_df, i9_df)
+df$Function = ifelse((df$Function == 'dgetrf_nopiv' | df$Function == 'sgetrf_nopiv'), 'getrf_nopiv', 'potrf')
+
+label_func <- c('Single Precision LU', 'Single Precision Cholesky')
+names(label_func) <- c('getrf_nopiv', 'potrf')
+
+meu_estilo <- function() {
+    list(
+        theme_bw(base_size = 14),
+        theme(
+            legend.title = element_blank(),
+            plot.margin = unit(c(0, 0, 0, 0), "cm"),
+            legend.spacing = unit(1, "mm"),
+            legend.position = "inside",
+            legend.position.inside = c(0.8,0.83),
+            legend.justification = "left",
+            legend.box.spacing = unit(0, "pt"),
+            legend.box.margin = margin(0, 0, 0, 0),
+            axis.text.x = element_text(angle=90, vjust=1, hjust=1)    
+        ))
+}
+
+df |>
+    filter(nb > 600 & nb < 1500 & gpus == 1 & n == 32768 & precision == 'Single') |>
+    group_by(Function, threads, gpus, nb, precision, CPU) |>
+    summarize(count = n(), avg_t = mean(time), sd = sd(time)) |>
+    ggplot(aes(color = CPU, x = factor(nb), y = avg_t,
+               ymin = avg_t - sd,
+               ymax = avg_t + sd,
+               )) +
+    geom_point() +
+    geom_errorbar(width=.1) +
+    ylim(0, NA) +
+    facet_grid(~Function, scales="free_y", labeller=labeller(Function=label_func)) +
+    labs(x="Block size", y="Execution time (s)", color="CPU") +
+    meu_estilo() +
+    scale_colour_brewer(palette="Set1") -> plot
+
+ggsave('general.pdf', height=4, width=6, plot)
