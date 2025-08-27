@@ -1,0 +1,2352 @@
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067095	0x0000ffff		chameleon_stesting
+ 1067095	0x0000ffff		chameleon_stest
+ 1067096	0x0000ffff		chameleon_stest
+ 1067097	0x0000ffff		cuda0000380000f
+ 1067105	0x00000001		CUDA 0
+ 1067106	0x00000002		CPU 0
+ 1067107	0x00000004		CPU 1
+ 1067108	0x00000001		cuda-EvtHandlr
+ 1067109	0x00000008		CPU 2
+ 1067110	0x00000010		CPU 3
+ 1067111	0x00000020		CPU 4
+ 1067112	0x00000040		CPU 5
+ 1067113	0x00000080		CPU 6
+ 1067114	0x00000001		chameleon_stest
+ 1067115	0x00000001		MPI
+1067116	0x0000ffff		sh
+1067117	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;800;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;4.103046e+02;1.624797e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067153	0x0000ffff		chameleon_stesting
+ 1067153	0x0000ffff		chameleon_stest
+ 1067154	0x0000ffff		chameleon_stest
+ 1067155	0x0000ffff		cuda0000380000f
+ 1067161	0x00000001		CUDA 0
+ 1067162	0x00000001		CPU 0
+ 1067163	0x00000002		CPU 1
+ 1067164	0x00000004		CPU 2
+ 1067165	0x00000008		CPU 3
+ 1067166	0x00000010		CPU 4
+ 1067167	0x00000020		CPU 5
+ 1067168	0x00000040		CPU 6
+ 1067169	0x00000080		CPU 7
+ 1067170	0x00000001		cuda-EvtHandlr
+ 1067171	0x00000001		chameleon_stest
+ 1067172	0x00000001		MPI
+1067173	0x0000ffff		sh
+1067174	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;800;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;4.378844e+02;1.522460e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067222	0x0000ffff		chameleon_stesting
+ 1067222	0x0000ffff		chameleon_stest
+ 1067223	0x0000ffff		chameleon_stest
+ 1067224	0x0000ffff		cuda0000380000f
+ 1067230	0x00000001		CUDA 0
+ 1067231	0x00000001		CPU 0
+ 1067232	0x00000002		CPU 1
+ 1067233	0x00000004		CPU 2
+ 1067234	0x00000001		cuda-EvtHandlr
+ 1067235	0x00000008		CPU 3
+ 1067236	0x00000010		CPU 4
+ 1067237	0x00000020		CPU 5
+ 1067238	0x00000040		CPU 6
+ 1067239	0x00000080		CPU 7
+ 1067240	0x00000001		chameleon_stest
+ 1067241	0x00000001		MPI
+1067242	0x0000ffff		sh
+1067243	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;1250;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.866068e+02;3.572548e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067260	0x0000ffff		chameleon_stesting
+ 1067260	0x0000ffff		chameleon_stest
+ 1067261	0x0000ffff		chameleon_stest
+ 1067262	0x0000ffff		cuda0000380000f
+ 1067268	0x00000001		CUDA 0
+ 1067269	0x00000002		CPU 0
+ 1067270	0x00000004		CPU 1
+ 1067271	0x00000008		CPU 2
+ 1067272	0x00000010		CPU 3
+ 1067273	0x00000001		cuda-EvtHandlr
+ 1067274	0x00000020		CPU 4
+ 1067275	0x00000040		CPU 5
+ 1067276	0x00000080		CPU 6
+ 1067277	0x00000001		chameleon_stest
+ 1067278	0x00000001		MPI
+1067279	0x0000ffff		sh
+1067280	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;1024;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.859233e+02;3.585682e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067313	0x0000ffff		chameleon_stesting
+ 1067313	0x0000ffff		chameleon_stest
+ 1067314	0x0000ffff		chameleon_stest
+ 1067315	0x0000ffff		cuda0000380000f
+ 1067321	0x00000001		CUDA 0
+ 1067322	0x00000001		CPU 0
+ 1067323	0x00000002		CPU 1
+ 1067324	0x00000004		CPU 2
+ 1067325	0x00000008		CPU 3
+ 1067326	0x00000010		CPU 4
+ 1067327	0x00000020		CPU 5
+ 1067328	0x00000040		CPU 6
+ 1067329	0x00000080		CPU 7
+ 1067330	0x00000001		cuda-EvtHandlr
+ 1067331	0x00000001		chameleon_stest
+ 1067332	0x00000001		MPI
+1067333	0x0000ffff		sh
+1067334	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;1024;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;2.802173e+02;2.379088e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067358	0x0000ffff		chameleon_stesting
+ 1067358	0x0000ffff		chameleon_stest
+ 1067359	0x0000ffff		chameleon_stest
+ 1067360	0x0000ffff		cuda0000380000f
+ 1067366	0x00000001		CUDA 0
+ 1067367	0x00000002		CPU 0
+ 1067368	0x00000004		CPU 1
+ 1067369	0x00000001		cuda-EvtHandlr
+ 1067370	0x00000008		CPU 2
+ 1067371	0x00000010		CPU 3
+ 1067372	0x00000020		CPU 4
+ 1067373	0x00000040		CPU 5
+ 1067374	0x00000080		CPU 6
+ 1067375	0x00000001		chameleon_stest
+ 1067376	0x00000001		MPI
+1067377	0x0000ffff		sh
+1067378	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;1024;121;100000;100000;846930886;0.000000e+00;1.467172e+01;2.271978e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067385	0x0000ffff		chameleon_stesting
+ 1067385	0x0000ffff		chameleon_stest
+ 1067386	0x0000ffff		chameleon_stest
+ 1067387	0x0000ffff		cuda0000380000f
+ 1067393	0x00000001		CUDA 0
+ 1067394	0x00000001		CPU 0
+ 1067395	0x00000002		CPU 1
+ 1067396	0x00000001		cuda-EvtHandlr
+ 1067397	0x00000004		CPU 2
+ 1067398	0x00000008		CPU 3
+ 1067399	0x00000010		CPU 4
+ 1067400	0x00000020		CPU 5
+ 1067401	0x00000040		CPU 6
+ 1067402	0x00000080		CPU 7
+ 1067403	0x00000001		chameleon_stest
+ 1067404	0x00000001		MPI
+1067405	0x0000ffff		sh
+1067406	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;1500;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.498031e+02;4.450253e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067420	0x0000ffff		chameleon_stesting
+ 1067420	0x0000ffff		chameleon_stest
+ 1067421	0x0000ffff		chameleon_stest
+ 1067422	0x0000ffff		cuda0000380000f
+ 1067428	0x00000001		CUDA 0
+ 1067429	0x00000002		CPU 0
+ 1067430	0x00000004		CPU 1
+ 1067431	0x00000008		CPU 2
+ 1067432	0x00000001		cuda-EvtHandlr
+ 1067433	0x00000010		CPU 3
+ 1067434	0x00000020		CPU 4
+ 1067435	0x00000040		CPU 5
+ 1067436	0x00000080		CPU 6
+ 1067437	0x00000001		chameleon_stest
+ 1067438	0x00000001		MPI
+1067439	0x0000ffff		sh
+1067440	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;1250;121;100000;100000;846930886;0.000000e+00;1.199622e+01;2.778695e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067464	0x0000ffff		chameleon_stesting
+ 1067464	0x0000ffff		chameleon_stest
+ 1067465	0x0000ffff		chameleon_stest
+ 1067466	0x0000ffff		cuda0000380000f
+ 1067472	0x00000001		CUDA 0
+ 1067473	0x00000001		CPU 0
+ 1067474	0x00000002		CPU 1
+ 1067475	0x00000004		CPU 2
+ 1067476	0x00000001		cuda-EvtHandlr
+ 1067477	0x00000008		CPU 3
+ 1067478	0x00000010		CPU 4
+ 1067479	0x00000020		CPU 5
+ 1067480	0x00000040		CPU 6
+ 1067481	0x00000080		CPU 7
+ 1067482	0x00000001		chameleon_stest
+ 1067483	0x00000001		MPI
+1067484	0x0000ffff		sh
+1067485	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;1500;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.457269e+02;4.574734e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067498	0x0000ffff		chameleon_stesting
+ 1067498	0x0000ffff		chameleon_stest
+ 1067499	0x0000ffff		chameleon_stest
+ 1067500	0x0000ffff		cuda0000380000f
+ 1067506	0x00000001		CUDA 0
+ 1067507	0x00000002		CPU 0
+ 1067508	0x00000004		CPU 1
+ 1067509	0x00000008		CPU 2
+ 1067510	0x00000001		cuda-EvtHandlr
+ 1067511	0x00000010		CPU 3
+ 1067512	0x00000020		CPU 4
+ 1067513	0x00000040		CPU 5
+ 1067514	0x00000080		CPU 6
+ 1067515	0x00000001		chameleon_stest
+ 1067516	0x00000001		MPI
+1067517	0x0000ffff		sh
+1067518	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;1024;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.806214e+02;3.690935e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067531	0x0000ffff		chameleon_stesting
+ 1067531	0x0000ffff		chameleon_stest
+ 1067532	0x0000ffff		chameleon_stest
+ 1067533	0x0000ffff		cuda0000380000f
+ 1067539	0x00000001		CUDA 0
+ 1067540	0x00000002		CPU 0
+ 1067541	0x00000004		CPU 1
+ 1067542	0x00000008		CPU 2
+ 1067543	0x00000001		cuda-EvtHandlr
+ 1067544	0x00000010		CPU 3
+ 1067545	0x00000020		CPU 4
+ 1067546	0x00000040		CPU 5
+ 1067547	0x00000080		CPU 6
+ 1067548	0x00000001		chameleon_stest
+ 1067549	0x00000001		MPI
+1067550	0x0000ffff		sh
+1067551	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;1024;121;100000;100000;846930886;0.000000e+00;1.498824e+01;2.224000e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067554	0x0000ffff		chameleon_stesting
+ 1067554	0x0000ffff		chameleon_stest
+ 1067555	0x0000ffff		chameleon_stest
+ 1067556	0x0000ffff		cuda0000380000f
+ 1067562	0x00000001		CUDA 0
+ 1067563	0x00000002		CPU 0
+ 1067564	0x00000004		CPU 1
+ 1067565	0x00000008		CPU 2
+ 1067566	0x00000010		CPU 3
+ 1067567	0x00000001		cuda-EvtHandlr
+ 1067568	0x00000020		CPU 4
+ 1067569	0x00000040		CPU 5
+ 1067570	0x00000080		CPU 6
+ 1067571	0x00000001		chameleon_stest
+ 1067572	0x00000001		MPI
+1067573	0x0000ffff		sh
+1067574	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;1024;121;100000;100000;846930886;0.000000e+00;1.317379e+01;2.530314e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067584	0x0000ffff		chameleon_stesting
+ 1067584	0x0000ffff		chameleon_stest
+ 1067585	0x0000ffff		chameleon_stest
+ 1067586	0x0000ffff		cuda0000380000f
+ 1067592	0x00000001		CUDA 0
+ 1067593	0x00000002		CPU 0
+ 1067594	0x00000004		CPU 1
+ 1067595	0x00000008		CPU 2
+ 1067596	0x00000001		cuda-EvtHandlr
+ 1067597	0x00000010		CPU 3
+ 1067598	0x00000020		CPU 4
+ 1067599	0x00000040		CPU 5
+ 1067600	0x00000080		CPU 6
+ 1067601	0x00000001		chameleon_stest
+ 1067602	0x00000001		MPI
+1067603	0x0000ffff		sh
+1067604	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;1250;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.049123e+02;6.354468e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067614	0x0000ffff		chameleon_stesting
+ 1067614	0x0000ffff		chameleon_stest
+ 1067615	0x0000ffff		chameleon_stest
+ 1067616	0x0000ffff		cuda0000380000f
+ 1067622	0x00000001		CUDA 0
+ 1067623	0x00000002		CPU 0
+ 1067624	0x00000004		CPU 1
+ 1067625	0x00000008		CPU 2
+ 1067626	0x00000001		cuda-EvtHandlr
+ 1067627	0x00000010		CPU 3
+ 1067628	0x00000020		CPU 4
+ 1067629	0x00000040		CPU 5
+ 1067630	0x00000080		CPU 6
+ 1067631	0x00000001		chameleon_stest
+ 1067632	0x00000001		MPI
+1067633	0x0000ffff		sh
+1067634	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;1500;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;7.868339e+01;8.472711e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067660	0x0000ffff		chameleon_stesting
+ 1067660	0x0000ffff		chameleon_stest
+ 1067661	0x0000ffff		chameleon_stest
+ 1067662	0x0000ffff		cuda0000380000f
+ 1067668	0x00000001		CUDA 0
+ 1067669	0x00000001		CPU 0
+ 1067670	0x00000002		CPU 1
+ 1067671	0x00000001		cuda-EvtHandlr
+ 1067672	0x00000004		CPU 2
+ 1067673	0x00000008		CPU 3
+ 1067674	0x00000010		CPU 4
+ 1067675	0x00000020		CPU 5
+ 1067676	0x00000040		CPU 6
+ 1067677	0x00000080		CPU 7
+ 1067678	0x00000001		chameleon_stest
+ 1067679	0x00000001		MPI
+1067680	0x0000ffff		sh
+1067681	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;800;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;4.449070e+02;1.498429e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067712	0x0000ffff		chameleon_stesting
+ 1067712	0x0000ffff		chameleon_stest
+ 1067713	0x0000ffff		chameleon_stest
+ 1067714	0x0000ffff		cuda0000380000f
+ 1067720	0x00000001		CUDA 0
+ 1067721	0x00000002		CPU 0
+ 1067722	0x00000004		CPU 1
+ 1067723	0x00000001		cuda-EvtHandlr
+ 1067724	0x00000008		CPU 2
+ 1067725	0x00000010		CPU 3
+ 1067726	0x00000020		CPU 4
+ 1067727	0x00000040		CPU 5
+ 1067728	0x00000080		CPU 6
+ 1067729	0x00000001		chameleon_stest
+ 1067730	0x00000001		MPI
+1067731	0x0000ffff		sh
+1067732	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;1250;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.053396e+02;6.328690e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067758	0x0000ffff		chameleon_stesting
+ 1067758	0x0000ffff		chameleon_stest
+ 1067759	0x0000ffff		chameleon_stest
+ 1067760	0x0000ffff		cuda0000380000f
+ 1067766	0x00000001		CUDA 0
+ 1067767	0x00000002		CPU 0
+ 1067768	0x00000004		CPU 1
+ 1067769	0x00000008		CPU 2
+ 1067770	0x00000010		CPU 3
+ 1067771	0x00000001		cuda-EvtHandlr
+ 1067772	0x00000020		CPU 4
+ 1067773	0x00000040		CPU 5
+ 1067774	0x00000080		CPU 6
+ 1067775	0x00000001		chameleon_stest
+ 1067776	0x00000001		MPI
+1067777	0x0000ffff		sh
+1067778	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;800;121;100000;100000;846930886;0.000000e+00;3.912026e+01;8.520861e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067786	0x0000ffff		chameleon_stesting
+ 1067786	0x0000ffff		chameleon_stest
+ 1067787	0x0000ffff		chameleon_stest
+ 1067788	0x0000ffff		cuda0000380000f
+ 1067794	0x00000001		CUDA 0
+ 1067795	0x00000001		CPU 0
+ 1067796	0x00000002		CPU 1
+ 1067797	0x00000004		CPU 2
+ 1067798	0x00000001		cuda-EvtHandlr
+ 1067799	0x00000008		CPU 3
+ 1067800	0x00000010		CPU 4
+ 1067801	0x00000020		CPU 5
+ 1067802	0x00000040		CPU 6
+ 1067803	0x00000080		CPU 7
+ 1067804	0x00000001		chameleon_stest
+ 1067805	0x00000001		MPI
+1067806	0x0000ffff		sh
+1067807	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;800;121;100000;100000;846930886;0.000000e+00;6.714511e+01;4.964447e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067814	0x0000ffff		chameleon_stesting
+ 1067814	0x0000ffff		chameleon_stest
+ 1067815	0x0000ffff		chameleon_stest
+ 1067816	0x0000ffff		cuda0000380000f
+ 1067822	0x00000001		CUDA 0
+ 1067823	0x00000001		CPU 0
+ 1067824	0x00000002		CPU 1
+ 1067825	0x00000001		cuda-EvtHandlr
+ 1067826	0x00000004		CPU 2
+ 1067827	0x00000008		CPU 3
+ 1067828	0x00000010		CPU 4
+ 1067829	0x00000020		CPU 5
+ 1067830	0x00000040		CPU 6
+ 1067831	0x00000080		CPU 7
+ 1067832	0x00000001		chameleon_stest
+ 1067833	0x00000001		MPI
+1067834	0x0000ffff		sh
+1067835	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;1500;121;100000;100000;846930886;0.000000e+00;2.128494e+01;1.566076e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067841	0x0000ffff		chameleon_stesting
+ 1067841	0x0000ffff		chameleon_stest
+ 1067842	0x0000ffff		chameleon_stest
+ 1067843	0x0000ffff		cuda0000380000f
+ 1067849	0x00000001		CUDA 0
+ 1067850	0x00000002		CPU 0
+ 1067851	0x00000004		CPU 1
+ 1067852	0x00000008		CPU 2
+ 1067853	0x00000001		cuda-EvtHandlr
+ 1067854	0x00000010		CPU 3
+ 1067855	0x00000020		CPU 4
+ 1067856	0x00000040		CPU 5
+ 1067857	0x00000080		CPU 6
+ 1067858	0x00000001		chameleon_stest
+ 1067859	0x00000001		MPI
+1067860	0x0000ffff		sh
+1067861	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;1500;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;7.783792e+01;8.564742e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067870	0x0000ffff		chameleon_stesting
+ 1067870	0x0000ffff		chameleon_stest
+ 1067871	0x0000ffff		chameleon_stest
+ 1067872	0x0000ffff		cuda0000380000f
+ 1067878	0x00000001		CUDA 0
+ 1067879	0x00000001		CPU 0
+ 1067880	0x00000002		CPU 1
+ 1067881	0x00000004		CPU 2
+ 1067882	0x00000008		CPU 3
+ 1067883	0x00000010		CPU 4
+ 1067884	0x00000020		CPU 5
+ 1067885	0x00000040		CPU 6
+ 1067886	0x00000080		CPU 7
+ 1067887	0x00000001		cuda-EvtHandlr
+ 1067888	0x00000001		chameleon_stest
+ 1067889	0x00000001		MPI
+1067890	0x0000ffff		sh
+1067891	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;1250;121;100000;100000;846930886;0.000000e+00;2.273228e+01;1.466366e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067895	0x0000ffff		chameleon_stesting
+ 1067895	0x0000ffff		chameleon_stest
+ 1067896	0x0000ffff		chameleon_stest
+ 1067897	0x0000ffff		cuda0000380000f
+ 1067903	0x00000001		CUDA 0
+ 1067904	0x00000001		CPU 0
+ 1067905	0x00000002		CPU 1
+ 1067906	0x00000004		CPU 2
+ 1067907	0x00000001		cuda-EvtHandlr
+ 1067908	0x00000008		CPU 3
+ 1067909	0x00000010		CPU 4
+ 1067910	0x00000020		CPU 5
+ 1067911	0x00000040		CPU 6
+ 1067912	0x00000080		CPU 7
+ 1067913	0x00000001		chameleon_stest
+ 1067914	0x00000001		MPI
+1067915	0x0000ffff		sh
+1067916	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;1250;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.870097e+02;3.564851e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067948	0x0000ffff		chameleon_stesting
+ 1067948	0x0000ffff		chameleon_stest
+ 1067949	0x0000ffff		chameleon_stest
+ 1067950	0x0000ffff		cuda0000380000f
+ 1067956	0x00000001		CUDA 0
+ 1067957	0x00000001		CPU 0
+ 1067958	0x00000002		CPU 1
+ 1067959	0x00000004		CPU 2
+ 1067960	0x00000001		cuda-EvtHandlr
+ 1067961	0x00000008		CPU 3
+ 1067962	0x00000010		CPU 4
+ 1067963	0x00000020		CPU 5
+ 1067964	0x00000040		CPU 6
+ 1067965	0x00000080		CPU 7
+ 1067966	0x00000001		chameleon_stest
+ 1067967	0x00000001		MPI
+1067968	0x0000ffff		sh
+1067969	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;1024;121;100000;100000;846930886;0.000000e+00;2.807055e+01;1.187502e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1067977	0x0000ffff		chameleon_stesting
+ 1067977	0x0000ffff		chameleon_stest
+ 1067978	0x0000ffff		chameleon_stest
+ 1067979	0x0000ffff		cuda0000380000f
+ 1067985	0x00000001		CUDA 0
+ 1067986	0x00000002		CPU 0
+ 1067987	0x00000004		CPU 1
+ 1067988	0x00000008		CPU 2
+ 1067989	0x00000010		CPU 3
+ 1067990	0x00000001		cuda-EvtHandlr
+ 1067991	0x00000020		CPU 4
+ 1067992	0x00000040		CPU 5
+ 1067993	0x00000080		CPU 6
+ 1067994	0x00000001		chameleon_stest
+ 1067995	0x00000001		MPI
+1067996	0x0000ffff		sh
+1067997	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;1500;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;7.938423e+01;8.397911e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068005	0x0000ffff		chameleon_stesting
+ 1068005	0x0000ffff		chameleon_stest
+ 1068006	0x0000ffff		chameleon_stest
+ 1068007	0x0000ffff		cuda0000380000f
+ 1068013	0x00000001		CUDA 0
+ 1068014	0x00000001		CPU 0
+ 1068015	0x00000002		CPU 1
+ 1068016	0x00000001		cuda-EvtHandlr
+ 1068017	0x00000004		CPU 2
+ 1068018	0x00000008		CPU 3
+ 1068019	0x00000010		CPU 4
+ 1068020	0x00000020		CPU 5
+ 1068021	0x00000040		CPU 6
+ 1068022	0x00000080		CPU 7
+ 1068023	0x00000001		chameleon_stest
+ 1068024	0x00000001		MPI
+1068025	0x0000ffff		sh
+1068026	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;1024;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;2.946500e+02;2.262554e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068046	0x0000ffff		chameleon_stesting
+ 1068046	0x0000ffff		chameleon_stest
+ 1068047	0x0000ffff		chameleon_stest
+ 1068048	0x0000ffff		cuda0000380000f
+ 1068054	0x00000001		CUDA 0
+ 1068055	0x00000002		CPU 0
+ 1068056	0x00000004		CPU 1
+ 1068057	0x00000008		CPU 2
+ 1068058	0x00000001		cuda-EvtHandlr
+ 1068059	0x00000010		CPU 3
+ 1068060	0x00000020		CPU 4
+ 1068061	0x00000040		CPU 5
+ 1068062	0x00000080		CPU 6
+ 1068063	0x00000001		chameleon_stest
+ 1068064	0x00000001		MPI
+1068065	0x0000ffff		sh
+1068066	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;1250;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;9.918225e+01;6.721583e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068076	0x0000ffff		chameleon_stesting
+ 1068076	0x0000ffff		chameleon_stest
+ 1068077	0x0000ffff		chameleon_stest
+ 1068078	0x0000ffff		cuda0000380000f
+ 1068084	0x00000001		CUDA 0
+ 1068085	0x00000002		CPU 0
+ 1068086	0x00000004		CPU 1
+ 1068087	0x00000008		CPU 2
+ 1068088	0x00000001		cuda-EvtHandlr
+ 1068089	0x00000010		CPU 3
+ 1068090	0x00000020		CPU 4
+ 1068091	0x00000040		CPU 5
+ 1068092	0x00000080		CPU 6
+ 1068093	0x00000001		chameleon_stest
+ 1068094	0x00000001		MPI
+1068095	0x0000ffff		sh
+1068096	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;800;121;100000;100000;846930886;0.000000e+00;3.902512e+01;8.541634e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068103	0x0000ffff		chameleon_stesting
+ 1068103	0x0000ffff		chameleon_stest
+ 1068104	0x0000ffff		chameleon_stest
+ 1068105	0x0000ffff		cuda0000380000f
+ 1068111	0x00000001		CUDA 0
+ 1068112	0x00000001		CPU 0
+ 1068113	0x00000002		CPU 1
+ 1068114	0x00000004		CPU 2
+ 1068115	0x00000008		CPU 3
+ 1068116	0x00000010		CPU 4
+ 1068117	0x00000020		CPU 5
+ 1068118	0x00000040		CPU 6
+ 1068119	0x00000080		CPU 7
+ 1068120	0x00000001		cuda-EvtHandlr
+ 1068121	0x00000001		chameleon_stest
+ 1068122	0x00000001		MPI
+1068123	0x0000ffff		sh
+1068124	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;1250;121;100000;100000;846930886;0.000000e+00;2.266425e+01;1.470767e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068147	0x0000ffff		chameleon_stesting
+ 1068147	0x0000ffff		chameleon_stest
+ 1068148	0x0000ffff		chameleon_stest
+ 1068149	0x0000ffff		cuda0000380000f
+ 1068155	0x00000001		CUDA 0
+ 1068156	0x00000001		CPU 0
+ 1068157	0x00000002		CPU 1
+ 1068158	0x00000004		CPU 2
+ 1068159	0x00000001		cuda-EvtHandlr
+ 1068160	0x00000008		CPU 3
+ 1068161	0x00000010		CPU 4
+ 1068162	0x00000020		CPU 5
+ 1068163	0x00000040		CPU 6
+ 1068164	0x00000080		CPU 7
+ 1068165	0x00000001		chameleon_stest
+ 1068166	0x00000001		MPI
+1068167	0x0000ffff		sh
+1068168	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;800;121;100000;100000;846930886;0.000000e+00;7.296563e+01;4.568429e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068175	0x0000ffff		chameleon_stesting
+ 1068175	0x0000ffff		chameleon_stest
+ 1068176	0x0000ffff		chameleon_stest
+ 1068177	0x0000ffff		cuda0000380000f
+ 1068183	0x00000001		CUDA 0
+ 1068184	0x00000001		CPU 0
+ 1068185	0x00000002		CPU 1
+ 1068186	0x00000004		CPU 2
+ 1068187	0x00000001		cuda-EvtHandlr
+ 1068188	0x00000008		CPU 3
+ 1068189	0x00000010		CPU 4
+ 1068190	0x00000020		CPU 5
+ 1068191	0x00000040		CPU 6
+ 1068192	0x00000080		CPU 7
+ 1068193	0x00000001		chameleon_stest
+ 1068194	0x00000001		MPI
+1068195	0x0000ffff		sh
+1068196	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;1024;121;100000;100000;846930886;0.000000e+00;2.803967e+01;1.188810e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068201	0x0000ffff		chameleon_stesting
+ 1068201	0x0000ffff		chameleon_stest
+ 1068202	0x0000ffff		chameleon_stest
+ 1068203	0x0000ffff		cuda0000380000f
+ 1068209	0x00000001		CUDA 0
+ 1068210	0x00000001		CPU 0
+ 1068211	0x00000002		CPU 1
+ 1068212	0x00000004		CPU 2
+ 1068213	0x00000001		cuda-EvtHandlr
+ 1068214	0x00000008		CPU 3
+ 1068215	0x00000010		CPU 4
+ 1068216	0x00000020		CPU 5
+ 1068217	0x00000040		CPU 6
+ 1068218	0x00000080		CPU 7
+ 1068219	0x00000001		chameleon_stest
+ 1068220	0x00000001		MPI
+1068221	0x0000ffff		sh
+1068222	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;1250;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.740551e+02;3.830177e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068234	0x0000ffff		chameleon_stesting
+ 1068234	0x0000ffff		chameleon_stest
+ 1068235	0x0000ffff		chameleon_stest
+ 1068236	0x0000ffff		cuda0000380000f
+ 1068242	0x00000001		CUDA 0
+ 1068243	0x00000002		CPU 0
+ 1068244	0x00000004		CPU 1
+ 1068245	0x00000008		CPU 2
+ 1068246	0x00000001		cuda-EvtHandlr
+ 1068247	0x00000010		CPU 3
+ 1068248	0x00000020		CPU 4
+ 1068249	0x00000040		CPU 5
+ 1068250	0x00000080		CPU 6
+ 1068251	0x00000001		chameleon_stest
+ 1068252	0x00000001		MPI
+1068253	0x0000ffff		sh
+1068254	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;1250;121;100000;100000;846930886;0.000000e+00;1.202102e+01;2.772963e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068263	0x0000ffff		chameleon_stesting
+ 1068263	0x0000ffff		chameleon_stest
+ 1068264	0x0000ffff		chameleon_stest
+ 1068265	0x0000ffff		cuda0000380000f
+ 1068271	0x00000001		CUDA 0
+ 1068272	0x00000002		CPU 0
+ 1068273	0x00000004		CPU 1
+ 1068274	0x00000008		CPU 2
+ 1068275	0x00000001		cuda-EvtHandlr
+ 1068276	0x00000010		CPU 3
+ 1068277	0x00000020		CPU 4
+ 1068278	0x00000040		CPU 5
+ 1068279	0x00000080		CPU 6
+ 1068280	0x00000001		chameleon_stest
+ 1068281	0x00000001		MPI
+1068282	0x0000ffff		sh
+1068283	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;1500;121;100000;100000;846930886;0.000000e+00;1.132874e+01;2.942412e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068287	0x0000ffff		chameleon_stesting
+ 1068287	0x0000ffff		chameleon_stest
+ 1068288	0x0000ffff		chameleon_stest
+ 1068289	0x0000ffff		cuda0000380000f
+ 1068295	0x00000001		CUDA 0
+ 1068296	0x00000002		CPU 0
+ 1068297	0x00000004		CPU 1
+ 1068298	0x00000001		cuda-EvtHandlr
+ 1068299	0x00000008		CPU 2
+ 1068300	0x00000010		CPU 3
+ 1068301	0x00000020		CPU 4
+ 1068302	0x00000040		CPU 5
+ 1068303	0x00000080		CPU 6
+ 1068304	0x00000001		chameleon_stest
+ 1068305	0x00000001		MPI
+1068306	0x0000ffff		sh
+1068307	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;800;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;3.920584e+02;1.700414e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068351	0x0000ffff		chameleon_stesting
+ 1068351	0x0000ffff		chameleon_stest
+ 1068352	0x0000ffff		chameleon_stest
+ 1068353	0x0000ffff		cuda0000380000f
+ 1068359	0x00000001		CUDA 0
+ 1068360	0x00000002		CPU 0
+ 1068361	0x00000004		CPU 1
+ 1068362	0x00000008		CPU 2
+ 1068363	0x00000001		cuda-EvtHandlr
+ 1068364	0x00000010		CPU 3
+ 1068365	0x00000020		CPU 4
+ 1068366	0x00000040		CPU 5
+ 1068367	0x00000080		CPU 6
+ 1068368	0x00000001		chameleon_stest
+ 1068369	0x00000001		MPI
+1068370	0x0000ffff		sh
+1068371	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;800;121;100000;100000;846930886;0.000000e+00;3.969499e+01;8.397491e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068387	0x0000ffff		chameleon_stesting
+ 1068387	0x0000ffff		chameleon_stest
+ 1068388	0x0000ffff		chameleon_stest
+ 1068389	0x0000ffff		cuda0000380000f
+ 1068397	0x00000001		CUDA 0
+ 1068398	0x00000001		CPU 0
+ 1068399	0x00000002		CPU 1
+ 1068400	0x00000004		CPU 2
+ 1068401	0x00000008		CPU 3
+ 1068402	0x00000010		CPU 4
+ 1068403	0x00000020		CPU 5
+ 1068404	0x00000040		CPU 6
+ 1068405	0x00000080		CPU 7
+ 1068406	0x00000001		cuda-EvtHandlr
+ 1068407	0x00000001		chameleon_stest
+ 1068408	0x00000001		MPI
+1068409	0x0000ffff		sh
+1068410	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;800;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;4.459579e+02;1.494898e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068457	0x0000ffff		chameleon_stesting
+ 1068457	0x0000ffff		chameleon_stest
+ 1068458	0x0000ffff		chameleon_stest
+ 1068459	0x0000ffff		cuda0000380000f
+ 1068465	0x00000001		CUDA 0
+ 1068466	0x00000001		CPU 0
+ 1068467	0x00000002		CPU 1
+ 1068468	0x00000004		CPU 2
+ 1068469	0x00000001		cuda-EvtHandlr
+ 1068470	0x00000008		CPU 3
+ 1068471	0x00000010		CPU 4
+ 1068472	0x00000020		CPU 5
+ 1068473	0x00000040		CPU 6
+ 1068474	0x00000080		CPU 7
+ 1068475	0x00000001		chameleon_stest
+ 1068476	0x00000001		MPI
+1068477	0x0000ffff		sh
+1068478	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;1250;121;100000;100000;846930886;0.000000e+00;2.277722e+01;1.463473e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068483	0x0000ffff		chameleon_stesting
+ 1068483	0x0000ffff		chameleon_stest
+ 1068484	0x0000ffff		chameleon_stest
+ 1068485	0x0000ffff		cuda0000380000f
+ 1068491	0x00000001		CUDA 0
+ 1068492	0x00000002		CPU 0
+ 1068493	0x00000004		CPU 1
+ 1068494	0x00000008		CPU 2
+ 1068495	0x00000010		CPU 3
+ 1068496	0x00000001		cuda-EvtHandlr
+ 1068497	0x00000020		CPU 4
+ 1068498	0x00000040		CPU 5
+ 1068499	0x00000080		CPU 6
+ 1068500	0x00000001		chameleon_stest
+ 1068501	0x00000001		MPI
+1068502	0x0000ffff		sh
+1068503	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;800;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;3.990301e+02;1.670705e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068527	0x0000ffff		chameleon_stesting
+ 1068527	0x0000ffff		chameleon_stest
+ 1068528	0x0000ffff		chameleon_stest
+ 1068529	0x0000ffff		cuda0000380000f
+ 1068535	0x00000001		CUDA 0
+ 1068536	0x00000001		CPU 0
+ 1068537	0x00000002		CPU 1
+ 1068538	0x00000004		CPU 2
+ 1068539	0x00000008		CPU 3
+ 1068540	0x00000010		CPU 4
+ 1068541	0x00000020		CPU 5
+ 1068542	0x00000040		CPU 6
+ 1068543	0x00000080		CPU 7
+ 1068544	0x00000001		cuda-EvtHandlr
+ 1068545	0x00000001		chameleon_stest
+ 1068546	0x00000001		MPI
+1068547	0x0000ffff		sh
+1068548	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;1250;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.996454e+02;3.339228e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068566	0x0000ffff		chameleon_stesting
+ 1068566	0x0000ffff		chameleon_stest
+ 1068567	0x0000ffff		chameleon_stest
+ 1068568	0x0000ffff		cuda0000380000f
+ 1068574	0x00000001		CUDA 0
+ 1068575	0x00000001		CPU 0
+ 1068576	0x00000002		CPU 1
+ 1068577	0x00000004		CPU 2
+ 1068578	0x00000001		cuda-EvtHandlr
+ 1068579	0x00000008		CPU 3
+ 1068580	0x00000010		CPU 4
+ 1068581	0x00000020		CPU 5
+ 1068582	0x00000040		CPU 6
+ 1068583	0x00000080		CPU 7
+ 1068584	0x00000001		chameleon_stest
+ 1068585	0x00000001		MPI
+1068586	0x0000ffff		sh
+1068587	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;800;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;4.461624e+02;1.494213e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068639	0x0000ffff		chameleon_stesting
+ 1068639	0x0000ffff		chameleon_stest
+ 1068640	0x0000ffff		chameleon_stest
+ 1068641	0x0000ffff		cuda0000380000f
+ 1068647	0x00000001		CUDA 0
+ 1068648	0x00000002		CPU 0
+ 1068649	0x00000004		CPU 1
+ 1068650	0x00000008		CPU 2
+ 1068651	0x00000001		cuda-EvtHandlr
+ 1068652	0x00000010		CPU 3
+ 1068653	0x00000020		CPU 4
+ 1068654	0x00000040		CPU 5
+ 1068655	0x00000080		CPU 6
+ 1068656	0x00000001		chameleon_stest
+ 1068657	0x00000001		MPI
+1068658	0x0000ffff		sh
+1068659	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;1250;121;100000;100000;846930886;0.000000e+00;1.195742e+01;2.787712e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068665	0x0000ffff		chameleon_stesting
+ 1068665	0x0000ffff		chameleon_stest
+ 1068666	0x0000ffff		chameleon_stest
+ 1068667	0x0000ffff		cuda0000380000f
+ 1068673	0x00000001		CUDA 0
+ 1068674	0x00000001		CPU 0
+ 1068675	0x00000002		CPU 1
+ 1068676	0x00000004		CPU 2
+ 1068677	0x00000008		CPU 3
+ 1068678	0x00000010		CPU 4
+ 1068679	0x00000020		CPU 5
+ 1068680	0x00000040		CPU 6
+ 1068681	0x00000080		CPU 7
+ 1068682	0x00000001		cuda-EvtHandlr
+ 1068683	0x00000001		chameleon_stest
+ 1068684	0x00000001		MPI
+1068685	0x0000ffff		sh
+1068686	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;1500;121;100000;100000;846930886;0.000000e+00;2.143580e+01;1.555055e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068693	0x0000ffff		chameleon_stesting
+ 1068693	0x0000ffff		chameleon_stest
+ 1068694	0x0000ffff		chameleon_stest
+ 1068695	0x0000ffff		cuda0000380000f
+ 1068701	0x00000001		CUDA 0
+ 1068702	0x00000002		CPU 0
+ 1068703	0x00000004		CPU 1
+ 1068704	0x00000001		cuda-EvtHandlr
+ 1068705	0x00000008		CPU 2
+ 1068706	0x00000010		CPU 3
+ 1068707	0x00000020		CPU 4
+ 1068708	0x00000040		CPU 5
+ 1068709	0x00000080		CPU 6
+ 1068710	0x00000001		chameleon_stest
+ 1068711	0x00000001		MPI
+1068712	0x0000ffff		sh
+1068713	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;1250;121;100000;100000;846930886;0.000000e+00;1.197219e+01;2.784273e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068717	0x0000ffff		chameleon_stesting
+ 1068717	0x0000ffff		chameleon_stest
+ 1068718	0x0000ffff		chameleon_stest
+ 1068719	0x0000ffff		cuda0000380000f
+ 1068725	0x00000001		CUDA 0
+ 1068726	0x00000001		CPU 0
+ 1068727	0x00000002		CPU 1
+ 1068728	0x00000004		CPU 2
+ 1068729	0x00000001		cuda-EvtHandlr
+ 1068730	0x00000008		CPU 3
+ 1068731	0x00000010		CPU 4
+ 1068732	0x00000020		CPU 5
+ 1068733	0x00000040		CPU 6
+ 1068734	0x00000080		CPU 7
+ 1068735	0x00000001		chameleon_stest
+ 1068736	0x00000001		MPI
+1068737	0x0000ffff		sh
+1068738	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;1500;121;100000;100000;846930886;0.000000e+00;2.131698e+01;1.563722e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068759	0x0000ffff		chameleon_stesting
+ 1068759	0x0000ffff		chameleon_stest
+ 1068760	0x0000ffff		chameleon_stest
+ 1068761	0x0000ffff		cuda0000380000f
+ 1068767	0x00000001		CUDA 0
+ 1068768	0x00000002		CPU 0
+ 1068769	0x00000004		CPU 1
+ 1068770	0x00000008		CPU 2
+ 1068771	0x00000001		cuda-EvtHandlr
+ 1068772	0x00000010		CPU 3
+ 1068773	0x00000020		CPU 4
+ 1068774	0x00000040		CPU 5
+ 1068775	0x00000080		CPU 6
+ 1068776	0x00000001		chameleon_stest
+ 1068777	0x00000001		MPI
+1068778	0x0000ffff		sh
+1068779	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;1500;121;100000;100000;846930886;0.000000e+00;1.130588e+01;2.948363e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068783	0x0000ffff		chameleon_stesting
+ 1068783	0x0000ffff		chameleon_stest
+ 1068784	0x0000ffff		chameleon_stest
+ 1068785	0x0000ffff		cuda0000380000f
+ 1068791	0x00000001		CUDA 0
+ 1068792	0x00000001		CPU 0
+ 1068793	0x00000002		CPU 1
+ 1068794	0x00000004		CPU 2
+ 1068795	0x00000001		cuda-EvtHandlr
+ 1068796	0x00000008		CPU 3
+ 1068797	0x00000010		CPU 4
+ 1068798	0x00000020		CPU 5
+ 1068799	0x00000040		CPU 6
+ 1068800	0x00000080		CPU 7
+ 1068801	0x00000001		chameleon_stest
+ 1068802	0x00000001		MPI
+1068803	0x0000ffff		sh
+1068804	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;1024;121;100000;100000;846930886;0.000000e+00;2.872801e+01;1.160325e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068812	0x0000ffff		chameleon_stesting
+ 1068812	0x0000ffff		chameleon_stest
+ 1068813	0x0000ffff		chameleon_stest
+ 1068814	0x0000ffff		cuda0000380000f
+ 1068820	0x00000001		CUDA 0
+ 1068821	0x00000001		CPU 0
+ 1068822	0x00000002		CPU 1
+ 1068823	0x00000001		cuda-EvtHandlr
+ 1068824	0x00000004		CPU 2
+ 1068825	0x00000008		CPU 3
+ 1068826	0x00000010		CPU 4
+ 1068827	0x00000020		CPU 5
+ 1068828	0x00000040		CPU 6
+ 1068829	0x00000080		CPU 7
+ 1068830	0x00000001		chameleon_stest
+ 1068831	0x00000001		MPI
+1068832	0x0000ffff		sh
+1068833	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;1250;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.736409e+02;3.839312e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068848	0x0000ffff		chameleon_stesting
+ 1068848	0x0000ffff		chameleon_stest
+ 1068849	0x0000ffff		chameleon_stest
+ 1068850	0x0000ffff		cuda0000380000f
+ 1068856	0x00000001		CUDA 0
+ 1068857	0x00000002		CPU 0
+ 1068858	0x00000004		CPU 1
+ 1068859	0x00000001		cuda-EvtHandlr
+ 1068860	0x00000008		CPU 2
+ 1068861	0x00000010		CPU 3
+ 1068862	0x00000020		CPU 4
+ 1068863	0x00000040		CPU 5
+ 1068864	0x00000080		CPU 6
+ 1068865	0x00000001		chameleon_stest
+ 1068866	0x00000001		MPI
+1068867	0x0000ffff		sh
+1068868	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;800;121;100000;100000;846930886;0.000000e+00;3.971233e+01;8.393824e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068874	0x0000ffff		chameleon_stesting
+ 1068874	0x0000ffff		chameleon_stest
+ 1068875	0x0000ffff		chameleon_stest
+ 1068876	0x0000ffff		cuda0000380000f
+ 1068882	0x00000001		CUDA 0
+ 1068883	0x00000001		CPU 0
+ 1068884	0x00000002		CPU 1
+ 1068885	0x00000004		CPU 2
+ 1068886	0x00000008		CPU 3
+ 1068887	0x00000001		cuda-EvtHandlr
+ 1068888	0x00000010		CPU 4
+ 1068889	0x00000020		CPU 5
+ 1068890	0x00000040		CPU 6
+ 1068891	0x00000080		CPU 7
+ 1068892	0x00000001		chameleon_stest
+ 1068893	0x00000001		MPI
+1068894	0x0000ffff		sh
+1068895	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;800;121;100000;100000;846930886;0.000000e+00;7.378363e+01;4.517782e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068903	0x0000ffff		chameleon_stesting
+ 1068903	0x0000ffff		chameleon_stest
+ 1068904	0x0000ffff		chameleon_stest
+ 1068905	0x0000ffff		cuda0000380000f
+ 1068911	0x00000001		CUDA 0
+ 1068912	0x00000001		CPU 0
+ 1068913	0x00000002		CPU 1
+ 1068914	0x00000004		CPU 2
+ 1068915	0x00000008		CPU 3
+ 1068916	0x00000010		CPU 4
+ 1068917	0x00000020		CPU 5
+ 1068918	0x00000040		CPU 6
+ 1068919	0x00000080		CPU 7
+ 1068920	0x00000001		cuda-EvtHandlr
+ 1068921	0x00000001		chameleon_stest
+ 1068922	0x00000001		MPI
+1068923	0x0000ffff		sh
+1068924	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;1500;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.477780e+02;4.511237e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068953	0x0000ffff		chameleon_stesting
+ 1068953	0x0000ffff		chameleon_stest
+ 1068954	0x0000ffff		chameleon_stest
+ 1068955	0x0000ffff		cuda0000380000f
+ 1068961	0x00000001		CUDA 0
+ 1068962	0x00000002		CPU 0
+ 1068963	0x00000004		CPU 1
+ 1068964	0x00000008		CPU 2
+ 1068965	0x00000001		cuda-EvtHandlr
+ 1068966	0x00000010		CPU 3
+ 1068967	0x00000020		CPU 4
+ 1068968	0x00000040		CPU 5
+ 1068969	0x00000080		CPU 6
+ 1068970	0x00000001		chameleon_stest
+ 1068971	0x00000001		MPI
+1068972	0x0000ffff		sh
+1068973	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;800;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;3.892791e+02;1.712554e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1068996	0x0000ffff		chameleon_stesting
+ 1068996	0x0000ffff		chameleon_stest
+ 1068997	0x0000ffff		chameleon_stest
+ 1068998	0x0000ffff		cuda0000380000f
+ 1069004	0x00000001		CUDA 0
+ 1069005	0x00000002		CPU 0
+ 1069006	0x00000004		CPU 1
+ 1069007	0x00000008		CPU 2
+ 1069008	0x00000010		CPU 3
+ 1069009	0x00000001		cuda-EvtHandlr
+ 1069010	0x00000020		CPU 4
+ 1069011	0x00000040		CPU 5
+ 1069012	0x00000080		CPU 6
+ 1069013	0x00000001		chameleon_stest
+ 1069014	0x00000001		MPI
+1069015	0x0000ffff		sh
+1069016	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;800;121;100000;100000;846930886;0.000000e+00;3.893699e+01;8.560969e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069026	0x0000ffff		chameleon_stesting
+ 1069026	0x0000ffff		chameleon_stest
+ 1069027	0x0000ffff		chameleon_stest
+ 1069028	0x0000ffff		cuda0000380000f
+ 1069034	0x00000001		CUDA 0
+ 1069035	0x00000001		CPU 0
+ 1069036	0x00000002		CPU 1
+ 1069037	0x00000001		cuda-EvtHandlr
+ 1069038	0x00000004		CPU 2
+ 1069039	0x00000008		CPU 3
+ 1069040	0x00000010		CPU 4
+ 1069041	0x00000020		CPU 5
+ 1069042	0x00000040		CPU 6
+ 1069043	0x00000080		CPU 7
+ 1069044	0x00000001		chameleon_stest
+ 1069045	0x00000001		MPI
+1069046	0x0000ffff		sh
+1069047	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;1500;121;100000;100000;846930886;0.000000e+00;2.139523e+01;1.558003e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069068	0x0000ffff		chameleon_stesting
+ 1069068	0x0000ffff		chameleon_stest
+ 1069069	0x0000ffff		chameleon_stest
+ 1069070	0x0000ffff		cuda0000380000f
+ 1069076	0x00000001		CUDA 0
+ 1069077	0x00000001		CPU 0
+ 1069078	0x00000002		CPU 1
+ 1069079	0x00000004		CPU 2
+ 1069080	0x00000001		cuda-EvtHandlr
+ 1069081	0x00000008		CPU 3
+ 1069082	0x00000010		CPU 4
+ 1069083	0x00000020		CPU 5
+ 1069084	0x00000040		CPU 6
+ 1069085	0x00000080		CPU 7
+ 1069086	0x00000001		chameleon_stest
+ 1069087	0x00000001		MPI
+1069088	0x0000ffff		sh
+1069089	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;1500;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.468484e+02;4.539796e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069105	0x0000ffff		chameleon_stesting
+ 1069105	0x0000ffff		chameleon_stest
+ 1069106	0x0000ffff		chameleon_stest
+ 1069107	0x0000ffff		cuda0000380000f
+ 1069113	0x00000001		CUDA 0
+ 1069114	0x00000001		CPU 0
+ 1069115	0x00000002		CPU 1
+ 1069116	0x00000004		CPU 2
+ 1069117	0x00000001		cuda-EvtHandlr
+ 1069118	0x00000008		CPU 3
+ 1069119	0x00000010		CPU 4
+ 1069120	0x00000020		CPU 5
+ 1069121	0x00000040		CPU 6
+ 1069122	0x00000080		CPU 7
+ 1069123	0x00000001		chameleon_stest
+ 1069124	0x00000001		MPI
+1069125	0x0000ffff		sh
+1069126	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;1024;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;2.997150e+02;2.224318e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069151	0x0000ffff		chameleon_stesting
+ 1069151	0x0000ffff		chameleon_stest
+ 1069152	0x0000ffff		chameleon_stest
+ 1069153	0x0000ffff		cuda0000380000f
+ 1069159	0x00000001		CUDA 0
+ 1069160	0x00000001		CPU 0
+ 1069161	0x00000002		CPU 1
+ 1069162	0x00000001		cuda-EvtHandlr
+ 1069163	0x00000004		CPU 2
+ 1069164	0x00000008		CPU 3
+ 1069165	0x00000010		CPU 4
+ 1069166	0x00000020		CPU 5
+ 1069167	0x00000040		CPU 6
+ 1069168	0x00000080		CPU 7
+ 1069169	0x00000001		chameleon_stest
+ 1069170	0x00000001		MPI
+1069171	0x0000ffff		sh
+1069172	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;1500;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.462468e+02;4.558469e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069185	0x0000ffff		chameleon_stesting
+ 1069185	0x0000ffff		chameleon_stest
+ 1069186	0x0000ffff		chameleon_stest
+ 1069187	0x0000ffff		cuda0000380000f
+ 1069193	0x00000001		CUDA 0
+ 1069194	0x00000002		CPU 0
+ 1069195	0x00000004		CPU 1
+ 1069196	0x00000008		CPU 2
+ 1069197	0x00000010		CPU 3
+ 1069198	0x00000001		cuda-EvtHandlr
+ 1069199	0x00000020		CPU 4
+ 1069200	0x00000040		CPU 5
+ 1069201	0x00000080		CPU 6
+ 1069202	0x00000001		chameleon_stest
+ 1069203	0x00000001		MPI
+1069204	0x0000ffff		sh
+1069205	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;1250;121;100000;100000;846930886;0.000000e+00;1.194533e+01;2.790532e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069228	0x0000ffff		chameleon_stesting
+ 1069228	0x0000ffff		chameleon_stest
+ 1069229	0x0000ffff		chameleon_stest
+ 1069230	0x0000ffff		cuda0000380000f
+ 1069236	0x00000001		CUDA 0
+ 1069237	0x00000001		CPU 0
+ 1069238	0x00000002		CPU 1
+ 1069239	0x00000004		CPU 2
+ 1069240	0x00000001		cuda-EvtHandlr
+ 1069241	0x00000008		CPU 3
+ 1069242	0x00000010		CPU 4
+ 1069243	0x00000020		CPU 5
+ 1069244	0x00000040		CPU 6
+ 1069245	0x00000080		CPU 7
+ 1069246	0x00000001		chameleon_stest
+ 1069247	0x00000001		MPI
+1069248	0x0000ffff		sh
+1069249	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;1500;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.491910e+02;4.468512e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069260	0x0000ffff		chameleon_stesting
+ 1069260	0x0000ffff		chameleon_stest
+ 1069261	0x0000ffff		chameleon_stest
+ 1069262	0x0000ffff		cuda0000380000f
+ 1069268	0x00000001		CUDA 0
+ 1069269	0x00000002		CPU 0
+ 1069270	0x00000004		CPU 1
+ 1069271	0x00000001		cuda-EvtHandlr
+ 1069272	0x00000008		CPU 2
+ 1069273	0x00000010		CPU 3
+ 1069274	0x00000020		CPU 4
+ 1069275	0x00000040		CPU 5
+ 1069276	0x00000080		CPU 6
+ 1069277	0x00000001		chameleon_stest
+ 1069278	0x00000001		MPI
+1069279	0x0000ffff		sh
+1069280	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;1024;121;100000;100000;846930886;0.000000e+00;1.449622e+01;2.299485e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069287	0x0000ffff		chameleon_stesting
+ 1069287	0x0000ffff		chameleon_stest
+ 1069288	0x0000ffff		chameleon_stest
+ 1069289	0x0000ffff		cuda0000380000f
+ 1069295	0x00000001		CUDA 0
+ 1069296	0x00000001		CPU 0
+ 1069297	0x00000002		CPU 1
+ 1069298	0x00000004		CPU 2
+ 1069299	0x00000001		cuda-EvtHandlr
+ 1069300	0x00000008		CPU 3
+ 1069301	0x00000010		CPU 4
+ 1069302	0x00000020		CPU 5
+ 1069303	0x00000040		CPU 6
+ 1069304	0x00000080		CPU 7
+ 1069305	0x00000001		chameleon_stest
+ 1069306	0x00000001		MPI
+1069307	0x0000ffff		sh
+1069308	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;1250;121;100000;100000;846930886;0.000000e+00;2.266900e+01;1.470459e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069313	0x0000ffff		chameleon_stesting
+ 1069313	0x0000ffff		chameleon_stest
+ 1069314	0x0000ffff		chameleon_stest
+ 1069315	0x0000ffff		cuda0000380000f
+ 1069321	0x00000001		CUDA 0
+ 1069322	0x00000001		CPU 0
+ 1069323	0x00000002		CPU 1
+ 1069324	0x00000004		CPU 2
+ 1069325	0x00000008		CPU 3
+ 1069326	0x00000001		cuda-EvtHandlr
+ 1069327	0x00000010		CPU 4
+ 1069328	0x00000020		CPU 5
+ 1069329	0x00000040		CPU 6
+ 1069330	0x00000080		CPU 7
+ 1069331	0x00000001		chameleon_stest
+ 1069332	0x00000001		MPI
+1069333	0x0000ffff		sh
+1069334	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;1024;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;3.149048e+02;2.117026e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069374	0x0000ffff		chameleon_stesting
+ 1069374	0x0000ffff		chameleon_stest
+ 1069375	0x0000ffff		chameleon_stest
+ 1069376	0x0000ffff		cuda0000380000f
+ 1069382	0x00000001		CUDA 0
+ 1069383	0x00000001		CPU 0
+ 1069384	0x00000002		CPU 1
+ 1069385	0x00000004		CPU 2
+ 1069386	0x00000001		cuda-EvtHandlr
+ 1069387	0x00000008		CPU 3
+ 1069388	0x00000010		CPU 4
+ 1069389	0x00000020		CPU 5
+ 1069390	0x00000040		CPU 6
+ 1069391	0x00000080		CPU 7
+ 1069392	0x00000001		chameleon_stest
+ 1069393	0x00000001		MPI
+1069394	0x0000ffff		sh
+1069395	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;800;121;100000;100000;846930886;0.000000e+00;7.170494e+01;4.648750e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069403	0x0000ffff		chameleon_stesting
+ 1069403	0x0000ffff		chameleon_stest
+ 1069404	0x0000ffff		chameleon_stest
+ 1069405	0x0000ffff		cuda0000380000f
+ 1069411	0x00000001		CUDA 0
+ 1069412	0x00000002		CPU 0
+ 1069413	0x00000004		CPU 1
+ 1069414	0x00000008		CPU 2
+ 1069415	0x00000001		cuda-EvtHandlr
+ 1069416	0x00000010		CPU 3
+ 1069417	0x00000020		CPU 4
+ 1069418	0x00000040		CPU 5
+ 1069419	0x00000080		CPU 6
+ 1069420	0x00000001		chameleon_stest
+ 1069421	0x00000001		MPI
+1069422	0x0000ffff		sh
+1069423	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;1500;121;100000;100000;846930886;0.000000e+00;1.132068e+01;2.944508e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069428	0x0000ffff		chameleon_stesting
+ 1069428	0x0000ffff		chameleon_stest
+ 1069429	0x0000ffff		chameleon_stest
+ 1069430	0x0000ffff		cuda0000380000f
+ 1069436	0x00000001		CUDA 0
+ 1069437	0x00000002		CPU 0
+ 1069438	0x00000004		CPU 1
+ 1069439	0x00000008		CPU 2
+ 1069440	0x00000001		cuda-EvtHandlr
+ 1069441	0x00000010		CPU 3
+ 1069442	0x00000020		CPU 4
+ 1069443	0x00000040		CPU 5
+ 1069444	0x00000080		CPU 6
+ 1069445	0x00000001		chameleon_stest
+ 1069446	0x00000001		MPI
+1069447	0x0000ffff		sh
+1069448	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;800;121;100000;100000;846930886;0.000000e+00;3.934542e+01;8.472099e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069455	0x0000ffff		chameleon_stesting
+ 1069455	0x0000ffff		chameleon_stest
+ 1069456	0x0000ffff		chameleon_stest
+ 1069457	0x0000ffff		cuda0000380000f
+ 1069463	0x00000001		CUDA 0
+ 1069464	0x00000002		CPU 0
+ 1069465	0x00000004		CPU 1
+ 1069466	0x00000008		CPU 2
+ 1069467	0x00000001		cuda-EvtHandlr
+ 1069468	0x00000010		CPU 3
+ 1069469	0x00000020		CPU 4
+ 1069470	0x00000040		CPU 5
+ 1069471	0x00000080		CPU 6
+ 1069472	0x00000001		chameleon_stest
+ 1069473	0x00000001		MPI
+1069474	0x0000ffff		sh
+1069475	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;1024;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.648411e+02;4.044269e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069493	0x0000ffff		chameleon_stesting
+ 1069493	0x0000ffff		chameleon_stest
+ 1069494	0x0000ffff		chameleon_stest
+ 1069495	0x0000ffff		cuda0000380000f
+ 1069501	0x00000001		CUDA 0
+ 1069502	0x00000001		CPU 0
+ 1069503	0x00000002		CPU 1
+ 1069504	0x00000004		CPU 2
+ 1069505	0x00000001		cuda-EvtHandlr
+ 1069506	0x00000008		CPU 3
+ 1069507	0x00000010		CPU 4
+ 1069508	0x00000020		CPU 5
+ 1069509	0x00000040		CPU 6
+ 1069510	0x00000080		CPU 7
+ 1069511	0x00000001		chameleon_stest
+ 1069512	0x00000001		MPI
+1069513	0x0000ffff		sh
+1069514	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;1024;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;3.060895e+02;2.177996e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069557	0x0000ffff		chameleon_stesting
+ 1069557	0x0000ffff		chameleon_stest
+ 1069558	0x0000ffff		chameleon_stest
+ 1069559	0x0000ffff		cuda0000380000f
+ 1069565	0x00000001		CUDA 0
+ 1069566	0x00000002		CPU 0
+ 1069567	0x00000004		CPU 1
+ 1069568	0x00000001		cuda-EvtHandlr
+ 1069569	0x00000008		CPU 2
+ 1069570	0x00000010		CPU 3
+ 1069571	0x00000020		CPU 4
+ 1069572	0x00000040		CPU 5
+ 1069573	0x00000080		CPU 6
+ 1069574	0x00000001		chameleon_stest
+ 1069575	0x00000001		MPI
+1069576	0x0000ffff		sh
+1069577	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;1024;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.898043e+02;3.512362e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069591	0x0000ffff		chameleon_stesting
+ 1069591	0x0000ffff		chameleon_stest
+ 1069592	0x0000ffff		chameleon_stest
+ 1069593	0x0000ffff		cuda0000380000f
+ 1069599	0x00000001		CUDA 0
+ 1069600	0x00000002		CPU 0
+ 1069601	0x00000004		CPU 1
+ 1069602	0x00000008		CPU 2
+ 1069603	0x00000001		cuda-EvtHandlr
+ 1069604	0x00000010		CPU 3
+ 1069605	0x00000020		CPU 4
+ 1069606	0x00000040		CPU 5
+ 1069607	0x00000080		CPU 6
+ 1069608	0x00000001		chameleon_stest
+ 1069609	0x00000001		MPI
+1069610	0x0000ffff		sh
+1069611	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;800;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;3.998447e+02;1.667302e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069634	0x0000ffff		chameleon_stesting
+ 1069634	0x0000ffff		chameleon_stest
+ 1069635	0x0000ffff		chameleon_stest
+ 1069636	0x0000ffff		cuda0000380000f
+ 1069642	0x00000001		CUDA 0
+ 1069643	0x00000002		CPU 0
+ 1069644	0x00000004		CPU 1
+ 1069645	0x00000001		cuda-EvtHandlr
+ 1069646	0x00000008		CPU 2
+ 1069647	0x00000010		CPU 3
+ 1069648	0x00000020		CPU 4
+ 1069649	0x00000040		CPU 5
+ 1069650	0x00000080		CPU 6
+ 1069651	0x00000001		chameleon_stest
+ 1069652	0x00000001		MPI
+1069653	0x0000ffff		sh
+1069654	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;1500;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;8.065632e+01;8.265461e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069665	0x0000ffff		chameleon_stesting
+ 1069665	0x0000ffff		chameleon_stest
+ 1069666	0x0000ffff		chameleon_stest
+ 1069667	0x0000ffff		cuda0000380000f
+ 1069673	0x00000001		CUDA 0
+ 1069674	0x00000001		CPU 0
+ 1069675	0x00000002		CPU 1
+ 1069676	0x00000001		cuda-EvtHandlr
+ 1069677	0x00000004		CPU 2
+ 1069678	0x00000008		CPU 3
+ 1069679	0x00000010		CPU 4
+ 1069680	0x00000020		CPU 5
+ 1069681	0x00000040		CPU 6
+ 1069682	0x00000080		CPU 7
+ 1069683	0x00000001		chameleon_stest
+ 1069684	0x00000001		MPI
+1069685	0x0000ffff		sh
+1069686	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;800;121;100000;100000;846930886;0.000000e+00;7.109261e+01;4.688790e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069713	0x0000ffff		chameleon_stesting
+ 1069713	0x0000ffff		chameleon_stest
+ 1069714	0x0000ffff		chameleon_stest
+ 1069715	0x0000ffff		cuda0000380000f
+ 1069721	0x00000001		CUDA 0
+ 1069722	0x00000002		CPU 0
+ 1069723	0x00000004		CPU 1
+ 1069724	0x00000008		CPU 2
+ 1069725	0x00000010		CPU 3
+ 1069726	0x00000001		cuda-EvtHandlr
+ 1069727	0x00000020		CPU 4
+ 1069728	0x00000040		CPU 5
+ 1069729	0x00000080		CPU 6
+ 1069730	0x00000001		chameleon_stest
+ 1069731	0x00000001		MPI
+1069732	0x0000ffff		sh
+1069733	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;1500;121;100000;100000;846930886;0.000000e+00;1.133844e+01;2.939896e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069738	0x0000ffff		chameleon_stesting
+ 1069738	0x0000ffff		chameleon_stest
+ 1069739	0x0000ffff		chameleon_stest
+ 1069740	0x0000ffff		cuda0000380000f
+ 1069746	0x00000001		CUDA 0
+ 1069747	0x00000001		CPU 0
+ 1069748	0x00000002		CPU 1
+ 1069749	0x00000004		CPU 2
+ 1069750	0x00000001		cuda-EvtHandlr
+ 1069751	0x00000008		CPU 3
+ 1069752	0x00000010		CPU 4
+ 1069753	0x00000020		CPU 5
+ 1069754	0x00000040		CPU 6
+ 1069755	0x00000080		CPU 7
+ 1069756	0x00000001		chameleon_stest
+ 1069757	0x00000001		MPI
+1069758	0x0000ffff		sh
+1069759	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;1024;121;100000;100000;846930886;0.000000e+00;2.895833e+01;1.151097e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069765	0x0000ffff		chameleon_stesting
+ 1069765	0x0000ffff		chameleon_stest
+ 1069766	0x0000ffff		chameleon_stest
+ 1069767	0x0000ffff		cuda0000380000f
+ 1069773	0x00000001		CUDA 0
+ 1069774	0x00000002		CPU 0
+ 1069775	0x00000004		CPU 1
+ 1069776	0x00000008		CPU 2
+ 1069777	0x00000010		CPU 3
+ 1069778	0x00000001		cuda-EvtHandlr
+ 1069779	0x00000020		CPU 4
+ 1069780	0x00000040		CPU 5
+ 1069781	0x00000080		CPU 6
+ 1069782	0x00000001		chameleon_stest
+ 1069783	0x00000001		MPI
+1069784	0x0000ffff		sh
+1069785	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;1024;121;100000;100000;846930886;0.000000e+00;1.441616e+01;2.312254e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069789	0x0000ffff		chameleon_stesting
+ 1069789	0x0000ffff		chameleon_stest
+ 1069790	0x0000ffff		chameleon_stest
+ 1069791	0x0000ffff		cuda0000380000f
+ 1069797	0x00000001		CUDA 0
+ 1069798	0x00000002		CPU 0
+ 1069799	0x00000004		CPU 1
+ 1069800	0x00000008		CPU 2
+ 1069801	0x00000001		cuda-EvtHandlr
+ 1069802	0x00000010		CPU 3
+ 1069803	0x00000020		CPU 4
+ 1069804	0x00000040		CPU 5
+ 1069805	0x00000080		CPU 6
+ 1069806	0x00000001		chameleon_stest
+ 1069807	0x00000001		MPI
+1069808	0x0000ffff		sh
+1069809	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;1250;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.065649e+02;6.255920e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069821	0x0000ffff		chameleon_stesting
+ 1069821	0x0000ffff		chameleon_stest
+ 1069822	0x0000ffff		chameleon_stest
+ 1069823	0x0000ffff		cuda0000380000f
+ 1069829	0x00000001		CUDA 0
+ 1069830	0x00000001		CPU 0
+ 1069831	0x00000002		CPU 1
+ 1069832	0x00000001		cuda-EvtHandlr
+ 1069833	0x00000004		CPU 2
+ 1069834	0x00000008		CPU 3
+ 1069835	0x00000010		CPU 4
+ 1069836	0x00000020		CPU 5
+ 1069837	0x00000040		CPU 6
+ 1069838	0x00000080		CPU 7
+ 1069839	0x00000001		chameleon_stest
+ 1069840	0x00000001		MPI
+1069841	0x0000ffff		sh
+1069842	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;1500;121;100000;100000;846930886;0.000000e+00;2.137859e+01;1.559216e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069849	0x0000ffff		chameleon_stesting
+ 1069849	0x0000ffff		chameleon_stest
+ 1069850	0x0000ffff		chameleon_stest
+ 1069851	0x0000ffff		cuda0000380000f
+ 1069857	0x00000001		CUDA 0
+ 1069858	0x00000002		CPU 0
+ 1069859	0x00000004		CPU 1
+ 1069860	0x00000001		cuda-EvtHandlr
+ 1069861	0x00000008		CPU 2
+ 1069862	0x00000010		CPU 3
+ 1069863	0x00000020		CPU 4
+ 1069864	0x00000040		CPU 5
+ 1069865	0x00000080		CPU 6
+ 1069866	0x00000001		chameleon_stest
+ 1069867	0x00000001		MPI
+1069868	0x0000ffff		sh
+1069869	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;1500;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;7.964647e+01;8.370260e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069878	0x0000ffff		chameleon_stesting
+ 1069878	0x0000ffff		chameleon_stest
+ 1069879	0x0000ffff		chameleon_stest
+ 1069880	0x0000ffff		cuda0000380000f
+ 1069886	0x00000001		CUDA 0
+ 1069887	0x00000002		CPU 0
+ 1069888	0x00000004		CPU 1
+ 1069889	0x00000008		CPU 2
+ 1069890	0x00000001		cuda-EvtHandlr
+ 1069891	0x00000010		CPU 3
+ 1069892	0x00000020		CPU 4
+ 1069893	0x00000040		CPU 5
+ 1069894	0x00000080		CPU 6
+ 1069895	0x00000001		chameleon_stest
+ 1069896	0x00000001		MPI
+1069897	0x0000ffff		sh
+1069898	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;1250;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.090837e+02;6.111469e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069928	0x0000ffff		chameleon_stesting
+ 1069928	0x0000ffff		chameleon_stest
+ 1069929	0x0000ffff		chameleon_stest
+ 1069930	0x0000ffff		cuda0000380000f
+ 1069936	0x00000001		CUDA 0
+ 1069937	0x00000002		CPU 0
+ 1069938	0x00000004		CPU 1
+ 1069939	0x00000001		cuda-EvtHandlr
+ 1069940	0x00000008		CPU 2
+ 1069941	0x00000010		CPU 3
+ 1069942	0x00000020		CPU 4
+ 1069943	0x00000040		CPU 5
+ 1069944	0x00000080		CPU 6
+ 1069945	0x00000001		chameleon_stest
+ 1069946	0x00000001		MPI
+1069947	0x0000ffff		sh
+1069948	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;1024;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.817060e+02;3.668904e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1069964	0x0000ffff		chameleon_stesting
+ 1069964	0x0000ffff		chameleon_stest
+ 1069965	0x0000ffff		chameleon_stest
+ 1069966	0x0000ffff		cuda0000380000f
+ 1069972	0x00000001		CUDA 0
+ 1069973	0x00000001		CPU 0
+ 1069974	0x00000002		CPU 1
+ 1069975	0x00000004		CPU 2
+ 1069976	0x00000008		CPU 3
+ 1069977	0x00000010		CPU 4
+ 1069978	0x00000020		CPU 5
+ 1069979	0x00000040		CPU 6
+ 1069980	0x00000080		CPU 7
+ 1069981	0x00000001		cuda-EvtHandlr
+ 1069982	0x00000001		chameleon_stest
+ 1069983	0x00000001		MPI
+1069984	0x0000ffff		sh
+1069985	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;800;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;4.374355e+02;1.524023e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1070034	0x0000ffff		chameleon_stesting
+ 1070034	0x0000ffff		chameleon_stest
+ 1070035	0x0000ffff		chameleon_stest
+ 1070036	0x0000ffff		cuda0000380000f
+ 1070042	0x00000001		CUDA 0
+ 1070043	0x00000002		CPU 0
+ 1070044	0x00000004		CPU 1
+ 1070045	0x00000008		CPU 2
+ 1070046	0x00000001		cuda-EvtHandlr
+ 1070047	0x00000010		CPU 3
+ 1070048	0x00000020		CPU 4
+ 1070049	0x00000040		CPU 5
+ 1070050	0x00000080		CPU 6
+ 1070051	0x00000001		chameleon_stest
+ 1070052	0x00000001		MPI
+1070053	0x0000ffff		sh
+1070054	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;1024;121;100000;100000;846930886;0.000000e+00;1.413728e+01;2.357867e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1070059	0x0000ffff		chameleon_stesting
+ 1070059	0x0000ffff		chameleon_stest
+ 1070060	0x0000ffff		chameleon_stest
+ 1070061	0x0000ffff		cuda0000380000f
+ 1070067	0x00000001		CUDA 0
+ 1070068	0x00000001		CPU 0
+ 1070069	0x00000002		CPU 1
+ 1070070	0x00000001		cuda-EvtHandlr
+ 1070071	0x00000004		CPU 2
+ 1070072	0x00000008		CPU 3
+ 1070073	0x00000010		CPU 4
+ 1070074	0x00000020		CPU 5
+ 1070075	0x00000040		CPU 6
+ 1070076	0x00000080		CPU 7
+ 1070077	0x00000001		chameleon_stest
+ 1070078	0x00000001		MPI
+1070079	0x0000ffff		sh
+1070080	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;1250;121;100000;100000;846930886;0.000000e+00;2.277957e+01;1.463322e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1070087	0x0000ffff		chameleon_stesting
+ 1070087	0x0000ffff		chameleon_stest
+ 1070088	0x0000ffff		chameleon_stest
+ 1070089	0x0000ffff		cuda0000380000f
+ 1070095	0x00000001		CUDA 0
+ 1070096	0x00000001		CPU 0
+ 1070097	0x00000002		CPU 1
+ 1070098	0x00000001		cuda-EvtHandlr
+ 1070099	0x00000004		CPU 2
+ 1070100	0x00000008		CPU 3
+ 1070101	0x00000010		CPU 4
+ 1070102	0x00000020		CPU 5
+ 1070103	0x00000040		CPU 6
+ 1070104	0x00000080		CPU 7
+ 1070105	0x00000001		chameleon_stest
+ 1070106	0x00000001		MPI
+1070107	0x0000ffff		sh
+1070108	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;1500;121;100000;100000;846930886;0.000000e+00;2.135876e+01;1.560663e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1070113	0x0000ffff		chameleon_stesting
+ 1070113	0x0000ffff		chameleon_stest
+ 1070114	0x0000ffff		chameleon_stest
+ 1070115	0x0000ffff		cuda0000380000f
+ 1070121	0x00000001		CUDA 0
+ 1070122	0x00000001		CPU 0
+ 1070123	0x00000002		CPU 1
+ 1070124	0x00000004		CPU 2
+ 1070125	0x00000001		cuda-EvtHandlr
+ 1070126	0x00000008		CPU 3
+ 1070127	0x00000010		CPU 4
+ 1070128	0x00000020		CPU 5
+ 1070129	0x00000040		CPU 6
+ 1070130	0x00000080		CPU 7
+ 1070131	0x00000001		chameleon_stest
+ 1070132	0x00000001		MPI
+1070133	0x0000ffff		sh
+1070134	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;800;121;100000;100000;846930886;0.000000e+00;7.126620e+01;4.677369e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1070145	0x0000ffff		chameleon_stesting
+ 1070145	0x0000ffff		chameleon_stest
+ 1070146	0x0000ffff		chameleon_stest
+ 1070147	0x0000ffff		cuda0000380000f
+ 1070153	0x00000001		CUDA 0
+ 1070154	0x00000001		CPU 0
+ 1070155	0x00000002		CPU 1
+ 1070156	0x00000004		CPU 2
+ 1070157	0x00000001		cuda-EvtHandlr
+ 1070158	0x00000008		CPU 3
+ 1070159	0x00000010		CPU 4
+ 1070160	0x00000020		CPU 5
+ 1070161	0x00000040		CPU 6
+ 1070162	0x00000080		CPU 7
+ 1070163	0x00000001		chameleon_stest
+ 1070164	0x00000001		MPI
+1070165	0x0000ffff		sh
+1070166	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;1250;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.945211e+02;3.427194e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1070179	0x0000ffff		chameleon_stesting
+ 1070179	0x0000ffff		chameleon_stest
+ 1070180	0x0000ffff		chameleon_stest
+ 1070181	0x0000ffff		cuda0000380000f
+ 1070187	0x00000001		CUDA 0
+ 1070188	0x00000002		CPU 0
+ 1070189	0x00000004		CPU 1
+ 1070190	0x00000008		CPU 2
+ 1070191	0x00000001		cuda-EvtHandlr
+ 1070192	0x00000010		CPU 3
+ 1070193	0x00000020		CPU 4
+ 1070194	0x00000040		CPU 5
+ 1070195	0x00000080		CPU 6
+ 1070196	0x00000001		chameleon_stest
+ 1070197	0x00000001		MPI
+1070198	0x0000ffff		sh
+1070199	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;1024;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.834128e+02;3.634761e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1070281	0x0000ffff		chameleon_stesting
+ 1070281	0x0000ffff		chameleon_stest
+ 1070282	0x0000ffff		chameleon_stest
+ 1070283	0x0000ffff		cuda0000380000f
+ 1070289	0x00000001		CUDA 0
+ 1070290	0x00000001		CPU 0
+ 1070291	0x00000002		CPU 1
+ 1070292	0x00000004		CPU 2
+ 1070293	0x00000001		cuda-EvtHandlr
+ 1070294	0x00000008		CPU 3
+ 1070295	0x00000010		CPU 4
+ 1070296	0x00000020		CPU 5
+ 1070297	0x00000040		CPU 6
+ 1070298	0x00000080		CPU 7
+ 1070299	0x00000001		chameleon_stest
+ 1070300	0x00000001		MPI
+1070301	0x0000ffff		sh
+1070302	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;800;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;4.376653e+02;1.523223e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1070338	0x0000ffff		chameleon_stesting
+ 1070338	0x0000ffff		chameleon_stest
+ 1070339	0x0000ffff		chameleon_stest
+ 1070340	0x0000ffff		cuda0000380000f
+ 1070346	0x00000001		CUDA 0
+ 1070347	0x00000001		CPU 0
+ 1070348	0x00000002		CPU 1
+ 1070349	0x00000004		CPU 2
+ 1070350	0x00000008		CPU 3
+ 1070351	0x00000010		CPU 4
+ 1070352	0x00000020		CPU 5
+ 1070353	0x00000040		CPU 6
+ 1070354	0x00000080		CPU 7
+ 1070355	0x00000001		cuda-EvtHandlr
+ 1070356	0x00000001		chameleon_stest
+ 1070357	0x00000001		MPI
+1070358	0x0000ffff		sh
+1070359	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;1024;121;100000;100000;846930886;0.000000e+00;2.803880e+01;1.188847e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1070366	0x0000ffff		chameleon_stesting
+ 1070366	0x0000ffff		chameleon_stest
+ 1070367	0x0000ffff		chameleon_stest
+ 1070368	0x0000ffff		cuda0000380000f
+ 1070374	0x00000001		CUDA 0
+ 1070375	0x00000002		CPU 0
+ 1070376	0x00000004		CPU 1
+ 1070377	0x00000008		CPU 2
+ 1070378	0x00000010		CPU 3
+ 1070379	0x00000001		cuda-EvtHandlr
+ 1070380	0x00000020		CPU 4
+ 1070381	0x00000040		CPU 5
+ 1070382	0x00000080		CPU 6
+ 1070383	0x00000001		chameleon_stest
+ 1070384	0x00000001		MPI
+1070385	0x0000ffff		sh
+1070386	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;1250;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;1.052399e+02;6.334686e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1070414	0x0000ffff		chameleon_stesting
+ 1070414	0x0000ffff		chameleon_stest
+ 1070415	0x0000ffff		chameleon_stest
+ 1070416	0x0000ffff		cuda0000380000f
+ 1070422	0x00000001		CUDA 0
+ 1070423	0x00000001		CPU 0
+ 1070424	0x00000002		CPU 1
+ 1070425	0x00000004		CPU 2
+ 1070426	0x00000008		CPU 3
+ 1070427	0x00000010		CPU 4
+ 1070428	0x00000020		CPU 5
+ 1070429	0x00000040		CPU 6
+ 1070430	0x00000080		CPU 7
+ 1070431	0x00000001		cuda-EvtHandlr
+ 1070432	0x00000001		chameleon_stest
+ 1070433	0x00000001		MPI
+1070434	0x0000ffff		sh
+1070435	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;1250;121;100000;100000;846930886;0.000000e+00;2.272800e+01;1.466642e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1070442	0x0000ffff		chameleon_stesting
+ 1070442	0x0000ffff		chameleon_stest
+ 1070443	0x0000ffff		chameleon_stest
+ 1070444	0x0000ffff		cuda0000380000f
+ 1070450	0x00000001		CUDA 0
+ 1070451	0x00000002		CPU 0
+ 1070452	0x00000004		CPU 1
+ 1070453	0x00000008		CPU 2
+ 1070454	0x00000001		cuda-EvtHandlr
+ 1070455	0x00000010		CPU 3
+ 1070456	0x00000020		CPU 4
+ 1070457	0x00000040		CPU 5
+ 1070458	0x00000080		CPU 6
+ 1070459	0x00000001		chameleon_stest
+ 1070460	0x00000001		MPI
+1070461	0x0000ffff		sh
+1070462	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;1250;121;100000;100000;846930886;0.000000e+00;1.196750e+01;2.785363e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1070466	0x0000ffff		chameleon_stesting
+ 1070466	0x0000ffff		chameleon_stest
+ 1070467	0x0000ffff		chameleon_stest
+ 1070468	0x0000ffff		cuda0000380000f
+ 1070474	0x00000001		CUDA 0
+ 1070475	0x00000002		CPU 0
+ 1070476	0x00000004		CPU 1
+ 1070477	0x00000008		CPU 2
+ 1070478	0x00000001		cuda-EvtHandlr
+ 1070479	0x00000010		CPU 3
+ 1070480	0x00000020		CPU 4
+ 1070481	0x00000040		CPU 5
+ 1070482	0x00000080		CPU 6
+ 1070483	0x00000001		chameleon_stest
+ 1070484	0x00000001		MPI
+1070485	0x0000ffff		sh
+1070486	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;1500;121;100000;100000;846930886;0.000000e+00;1.131258e+01;2.946618e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1070490	0x0000ffff		chameleon_stesting
+ 1070490	0x0000ffff		chameleon_stest
+ 1070491	0x0000ffff		chameleon_stest
+ 1070492	0x0000ffff		cuda0000380000f
+ 1070498	0x00000001		CUDA 0
+ 1070499	0x00000002		CPU 0
+ 1070500	0x00000004		CPU 1
+ 1070501	0x00000008		CPU 2
+ 1070502	0x00000001		cuda-EvtHandlr
+ 1070503	0x00000010		CPU 3
+ 1070504	0x00000020		CPU 4
+ 1070505	0x00000040		CPU 5
+ 1070506	0x00000080		CPU 6
+ 1070507	0x00000001		chameleon_stest
+ 1070508	0x00000001		MPI
+1070509	0x0000ffff		sh
+1070510	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;800;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;3.890028e+02;1.713771e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1070538	0x0000ffff		chameleon_stesting
+ 1070538	0x0000ffff		chameleon_stest
+ 1070539	0x0000ffff		chameleon_stest
+ 1070540	0x0000ffff		cuda0000380000f
+ 1070546	0x00000001		CUDA 0
+ 1070547	0x00000002		CPU 0
+ 1070548	0x00000004		CPU 1
+ 1070549	0x00000008		CPU 2
+ 1070550	0x00000001		cuda-EvtHandlr
+ 1070551	0x00000010		CPU 3
+ 1070552	0x00000020		CPU 4
+ 1070553	0x00000040		CPU 5
+ 1070554	0x00000080		CPU 6
+ 1070555	0x00000001		chameleon_stest
+ 1070556	0x00000001		MPI
+1070557	0x0000ffff		sh
+1070558	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;7;1;1;1;0;1500;121;100000;100000;846930886;0.000000e+00;1.133332e+01;2.941223e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1070564	0x0000ffff		chameleon_stesting
+ 1070564	0x0000ffff		chameleon_stest
+ 1070565	0x0000ffff		chameleon_stest
+ 1070566	0x0000ffff		cuda0000380000f
+ 1070572	0x00000001		CUDA 0
+ 1070573	0x00000001		CPU 0
+ 1070574	0x00000002		CPU 1
+ 1070575	0x00000004		CPU 2
+ 1070576	0x00000008		CPU 3
+ 1070577	0x00000010		CPU 4
+ 1070578	0x00000020		CPU 5
+ 1070579	0x00000040		CPU 6
+ 1070580	0x00000080		CPU 7
+ 1070581	0x00000001		cuda-EvtHandlr
+ 1070582	0x00000001		chameleon_stest
+ 1070583	0x00000001		MPI
+1070584	0x0000ffff		sh
+1070585	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;uplo;n;lda;seedA;tsub;time;gflops
+0;spotrf;8;1;1;1;0;1024;121;100000;100000;846930886;0.000000e+00;2.924112e+01;1.139964e+04
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1070591	0x0000ffff		chameleon_stesting
+ 1070591	0x0000ffff		chameleon_stest
+ 1070592	0x0000ffff		chameleon_stest
+ 1070593	0x0000ffff		cuda0000380000f
+ 1070599	0x00000001		CUDA 0
+ 1070600	0x00000001		CPU 0
+ 1070601	0x00000002		CPU 1
+ 1070602	0x00000004		CPU 2
+ 1070603	0x00000008		CPU 3
+ 1070604	0x00000010		CPU 4
+ 1070605	0x00000020		CPU 5
+ 1070606	0x00000040		CPU 6
+ 1070607	0x00000080		CPU 7
+ 1070608	0x00000001		cuda-EvtHandlr
+ 1070609	0x00000001		chameleon_stest
+ 1070610	0x00000001		MPI
+1070611	0x0000ffff		sh
+1070612	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;8;1;1;1;0;1024;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;2.836553e+02;2.350253e+03
+1067065	0x0000ffff		/lib/systemd/systemd
+1067066	0x0000ffff		(sd-pam)
+1067082	0x0000ffff		/bin/bash
+1070651	0x0000ffff		chameleon_stesting
+ 1070651	0x0000ffff		chameleon_stest
+ 1070652	0x0000ffff		chameleon_stest
+ 1070653	0x0000ffff		cuda0000380000f
+ 1070659	0x00000001		CUDA 0
+ 1070660	0x00000002		CPU 0
+ 1070661	0x00000004		CPU 1
+ 1070662	0x00000008		CPU 2
+ 1070663	0x00000001		cuda-EvtHandlr
+ 1070664	0x00000010		CPU 3
+ 1070665	0x00000020		CPU 4
+ 1070666	0x00000040		CPU 5
+ 1070667	0x00000080		CPU 6
+ 1070668	0x00000001		chameleon_stest
+ 1070669	0x00000001		MPI
+1070670	0x0000ffff		sh
+1070671	0x0000ffff		hwloc-ps
+== Binding for rank 0 on node tupi1 ==
+== End of bindings ==
+Id;Function;threads;gpus;P;Q;mtxfmt;nb;m;n;lda;seedA;bump;tsub;time;gflops
+0;sgetrf_nopiv;7;1;1;1;0;1500;100000;100000;100000;846930886;0.000000e+00;0.000000e+00;7.667347e+01;8.694816e+03
